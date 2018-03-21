@@ -15,4 +15,4 @@ if err := utils.NewActiveMQ("localhost:61613").Subscribe("/queue/test-1", handle
 ```
 # Contact Me:
 Email:anjieych@126.com
-QQ:   27234819
+QQ:   272348197
